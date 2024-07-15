@@ -203,4 +203,11 @@ section{
     .download{
         margin: 20px;
     }
+    .name{
+        margin-top: 40px;
+        font-size: 50px;
+    }
+    .massage{
+        padding: 0;
+    }
 }
